@@ -1,12 +1,17 @@
-*{
-    padding: 0;
-    margin: 0;
- box-sizing: border-box;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
-body{
-    max-width: 1440px;
-    width: 100%;
+body {
+  width: 100%;
 }
-.container{
-    width: 1280px;
+.container {
+  width: 1280px;
+  margin: auto;
+  position: relative;
+}
+a{
+    text-decoration: none;
+    color: white;
 }
