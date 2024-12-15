@@ -71,7 +71,20 @@ nav {
     background-color: #403f42;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif ;
+   transition: 0.5s;
     
+}
+.coach-card:hover{
+  width: 400px;
+  height: 600px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 6px 8px rgb(50, 163, 255);
+  background-color: #403f42;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif ;
 }
 .coach-card img {
     width: 100%;
