@@ -103,13 +103,15 @@ nav {
     display: inline-block;
     margin-top: 10px;
     padding: 10px 15px;
-    background-color: #007bff;
+    background-color:#eb5757;
     color: #fff;
     border-radius: 5px;
     text-decoration: none;
 }
 .coach-card a:hover {
-    background-color: #0056b3;
+  background-color:#6ac1b8;
+  padding: 20px 25px;
+
 }
 .card2{
     margin-top: 100px;
