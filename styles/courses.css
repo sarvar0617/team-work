@@ -64,13 +64,16 @@ nav {
 }
 
 .card img {
-  width: 225px;
+  margin-top: 15px;
+  margin-left: 7px;
+  width: 210px;
   height: 210px;
 }
 
 
 .card h2 {
+  background: none;
   color: white;
-  padding-top: 15px;
   text-align: center;
+  display: inline-block;
 }
